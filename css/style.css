@@ -19,6 +19,20 @@ table thead {
     background: cadetblue;
 }
 
+thead td:hover {
+    background: rgb(56, 56, 128);
+    cursor: pointer;
+}
+
 td {
     text-align: center;
+}
+
+div {
+    border: 1px solid black;
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
 }
