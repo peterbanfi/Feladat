@@ -1,0 +1,24 @@
+body {
+    width: 1500px;
+    margin: 20px auto;
+    background: rgba(0, 0, 255, 0.082);
+}
+
+table {
+    border: 2px solid black;
+    background: rgb(201, 201, 201);
+}
+
+td {
+    border: 1px solid black;
+}
+
+table thead {
+    font-size: 20px;
+    font-weight: bold;
+    background: cadetblue;
+}
+
+td {
+    text-align: center;
+}
